@@ -1,0 +1,345 @@
+cdc
+
+The purpose of the Coronavirus Self-Checker is to help you make decisions
+ about seeking appropriate medical care. This system is not intended for the diagnosis or treatment
+ of disease or other conditions, including COVID-19.
+
+I agree
+
+
+ᵥₑᵣ₆₃ ₍₂₀₂₀₋₀₈₋₂₄₎
+
+Bot attached:
+
+I agree
+
+I don't agree
+Sent at November 26 at 10:16 AM12 minutes ago
+You said:
+I agree
+
+Sent at November 26 at 10:19 AM8 minutes ago
+CDC
+
+Bot CDC said:
+Hi, I’m Clara. I’m going to ask you some questions.
+ I will use your answers to give you advice about the level of medical care you should seek.
+
+But first, if you are experiencing a life-threatening emergency, please call 911 immediately.
+
+If you are not experiencing a life-threatening emergency, let’s get started.
+
+Sent at November 26 at 10:19 AM
+Bot CDC said:
+During the assessment, you can refresh the page if you need to start again.
+
+Sent at November 26 at 10:19 AM
+Bot CDC said:
+Are you in the United States or a U.S. territory right now?
+
+Bot attached:
+
+Yes
+
+No
+Sent at November 26 at 10:19 AM8 minutes ago
+You said:
+No
+
+Sent at November 26 at 10:21 AM6 minutes ago
+CDC
+
+Bot CDC said:
+Are you answering for yourself or someone else?
+
+Bot attached:
+
+Myself
+
+Someone else
+Sent at November 26 at 10:21 AM6 minutes ago
+You said:
+Myself
+
+Sent at November 26 at 10:22 AM6 minutes ago
+CDC
+
+Bot CDC said:
+What is your age?
+
+Bot attached:
+
+18-29
+
+Submit
+Sent at November 26 at 10:22 AM
+Bot CDC said:
+What is your gender?
+
+Bot attached:
+
+Male
+
+Female
+
+Other
+Sent at November 26 at 10:22 AM5 minutes ago
+You said:
+Male
+
+Sent at November 26 at 10:23 AM5 minutes ago
+CDC
+
+Bot CDC said:
+Do you have any of these life-threatening symptoms?
+
+Bluish lips or face
+
+Severe and constant pain or pressure in the chest
+
+Extreme difficulty breathing (such as gasping for air,
+ being unable to talk without catching your breath, severe wheezing, nostrils flaring)
+
+New disorientation (acting confused)
+
+Unconscious or very difficult to wake up
+
+Slurred speech or difficulty speaking (new or worsening)
+
+New or worsening seizures
+
+Signs of low blood pressure (too weak to stand, dizziness, lightheaded, feeling cold, pale, clammy skin)
+
+Dehydration (dry lips and mouth, not urinating much, sunken eyes)
+
+Bot attached:
+
+Yes
+
+No
+Sent at November 26 at 10:23 AM5 minutes ago
+You said:
+No
+
+Sent at November 26 at 10:23 AM4 minutes ago
+CDC
+
+Bot CDC said:
+Are you feeling sick?
+
+Bot attached:
+
+Yes
+
+No
+Sent at November 26 at 10:23 AM4 minutes ago
+You said:
+Yes
+
+Sent at November 26 at 10:23 AM4 minutes ago
+CDC
+
+Bot CDC said:
+In the two weeks before you felt sick, did you care
+ for or have close contact (within 6 feet of an infected
+ person for at least 15 minutes) with someone with symptoms
+ of COVID-19, tested for COVID-19, or diagnosed with COVID-19?
+
+Bot attached:
+
+Yes
+
+No
+
+I don't know
+Sent at November 26 at 10:23 AM4 minutes ago
+You said:
+I don't know
+
+Sent at November 26 at 10:24 AM3 minutes ago
+CDC
+
+Bot CDC said:
+Do you have any of the following? (check any)
+
+Bot attached:
+
+Fever or feeling feverish (such as chills, sweating)
+
+
+Cough
+
+
+Mild or moderate difficulty breathing
+
+
+Sore throat
+
+
+Muscle aches or body aches
+
+
+Vomiting or diarrhea
+
+
+New loss of taste or smell
+
+
+Congestion or runny nose
+
+
+Other symptoms
+
+
+Submit
+Sent at November 26 at 10:24 AM
+Bot CDC said:
+Do you live in a long-term care facility, nursing home, or homeless shelter?
+
+Bot attached:
+
+Yes
+
+No
+Sent at November 26 at 10:25 AM3 minutes ago
+You said:
+No
+
+Sent at November 26 at 10:25 AM2 minutes ago
+CDC
+
+Bot CDC said:
+In the last two weeks, have you worked or volunteered
+ in a healthcare facility or as a first responder?
+ Healthcare facilities include a hospital, other medical
+ setting (including dental care setting), or long-term care facility.
+
+Bot attached:
+
+Yes
+
+No
+Sent at November 26 at 10:25 AM2 minutes ago
+You said:
+Yes
+
+Sent at November 26 at 10:25 AM2 minutes ago
+CDC
+
+Bot CDC said:
+Stay home (keep them home) and take care of yourself (them). Call your (their) medical provider.
+
+Sorry you (they) are not feeling well. Your (their) symptom(s) may be related to COVID-19.
+
+Call your (their) medical provider, clinician advice line, or telemedicine provider.
+
+Stay home (keep them home) except to get medical care.
+
+Do not go to work, school, or public areas including grocery stores,
+ pharmacies, or restaurants. Consider delivery options for food and medicine.
+
+Do not use public transportation or ride sharing.
+
+If you (they) feel worse, and you think it is an emergency, call 911 or seek medical care immediately.
+
+Consider using telehealth services if available.
+
+Learn how to take care of yourself or someone else who is sick.
+
+Take steps to help protect others from getting sick.
+
+Please check with your Ministry of Health or local health department
+ for additional information and guidelines about COVID-19 in your location.
+
+Sent at November 26 at 10:25 AM
+Bot CDC said:
+Contact the occupational health provider at your workplace immediately.
+
+Tell the occupational health provider (or supervisor) in your workplace that you’re feeling sick as soon as possible.
+
+Sent at November 26 at 10:25 AM
+Bot CDC said:
+You (they) may be eligible for COVID-19 testing.
+
+Contact your local health department or you medical provider for more information.
+
+
+আপনার করোনা ভাইরাস বা কোভিড-১৯ এ আক্রান্ত হওয়ার সম্ভাবনা রয়েছে।
+কিছু জরুরি নির্দেশনাঃ
+
+যেহেতু আপনি স্বাস্থ্যকর্মী আপনার করোনা ভাইরাসের সংক্রমণের ঝুঁকি সাধারণ মানুষের তুলনায় অনেক বেশি। 
+টেস্ট করার জন্য আপনার নিকটবর্তী হাসপাতাল / ল্যাব / আইইডিসিআর, যেখানে পিসিআর পরীক্ষা হয় তাদের হটলাইন নাম্বারে যোগাযোগ করুন।
+অতিসত্তর মোবাইলে আপনার নিকটবর্তী হাসপাতাল বা ৩৩৩, ১৬২৬৩, ১০৬৫৫ অথবা আইইডিসিআর এর হটলাইন নাম্বারে যোগাযোগ করবেন।
+হাসপাতালে যাওয়ার সময় অবশ্যই মাস্ক পরিধান করবেন এবং গণপরিবহন বা ভীড় এড়িয়ে চলবেন।
+যাতাযাতের সময় আপনার সাথে শুধু একজন সঙ্গী থাকতে পারবে তবে তাঁর সাথে নিরাপদ দূরত্ব (৩ ফুট) বজায় রাখতে হবে।
+
+করোনা ভাইরাস প্রতিরোধের উপায়ঃ
+
+বার বার সাবান ও পানি দিয়ে হাত ধুবেন (প্রতিবারে ২০ সেকেন্ডের বেশি)।
+প্রয়োজনে স্যানিটাইজার ব্যবহার করতে পারেন।
+জরুরি প্রয়োজন ব্যতিরেকে জনসমাগম এড়িয়ে চলুন, বেশিরভাগ সময় বাড়িতে থাকার চেষ্টা করুন।
+সঠিক উপায়ে হাত ধোয়ার নিয়মঃ https://youtu.be/L-QWAi6n1Bk
+
+
+আপনার করোনা ভাইরাস বা কোভিড-১৯ এ আক্রান্ত হওয়ার যথেষ্ট সম্ভাবনা রয়েছে, তবে কোনোভাবেই ভয় না পেয়ে নিচের নির্দেশনাগুলো মেনে পদক্ষেপ নিন।
+
+You are more likely to be infected with Corona virus or Covid-19.
+Some urgent instructions
+
+Since you are a health worker the risk of your corona virus infection is much higher than normal people.
+Contact your nearest hospital / lab / IEDCR hotline number for PCR testing.
+Contact your nearest hospital or 333, 16263, 10655 or IEDCR hotline number on Atisattar Mobile.
+You must wear a mask when going to the hospital and avoid public transport or crowds.
+You can have only one companion with you while traveling but you have to maintain a safe distance (3 feet) with him.
+
+Ways to prevent corona virus
+
+Wash your hands frequently with soap and water (more than 20 seconds at a time).
+You can use sanitizer if necessary.
+
+Avoid public gatherings unless absolutely necessary, try to stay home most of the time.
+Proper hand washing rules: https://youtu.be/L-QWAi6n1Bk
+
+
+There is a good chance that you will be infected with Corona virus or Covid-19, but do not be afraid to follow the instructions below.
+
+
+
+myclinic:
+
+
+
+Contact a health care provider within 12 hours
+Your answers indicate that you have possible symptoms of COVID-19 and that you've had close contact with someone who has the condition. Based on this information, you should speak to your health care provider. You may be directed to a testing site.
+
+Because you've had close contact with a person who has lab-confirmed COVID-19, you should quarantine for 14 days to avoid possibly spreading the infection to others.
+
+Follow these steps:
+
+Don't leave your home, except to get medical care.
+
+Stay in a specific room away from others in your home, and use a separate bathroom, if possible.
+
+Do not share household items.
+
+Wear a mask when around others if contact is necessary.
+
+Contact your health care provider for more advice if symptoms continue or get worse, or if new symptoms start.
+
+Notify employee or occupational health at your work site before returning to work if you're a health care worker.
+
+Call 911 or your local emergency number immediately if you develop symptoms like:
+
+Ongoing pain or pressure in your chest
+
+New confusion
+
+A bluish color to your lips or face
+
+Struggling to breathe
+
+Feeling about to collapse every time you stand or sit up
+
+
+
+
