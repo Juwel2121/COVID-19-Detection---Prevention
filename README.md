@@ -1,1 +1,1 @@
-# COVID-19-Detection---Prevention
+# COVID-19-Detection-and-Prevention
