@@ -10,7 +10,11 @@ Through a chatbot, users can describe their symptoms, and the program categorize
 Repository Link: [COVID-19 Detection and Prevention](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention)
 
 ### Screenshot of the Application
-![App Screenshot](path_to_your_image/app_screenshot.png)
+![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/initial-view.png)
+![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/about.png)
+![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/symptoms.png)
+![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/prevent.png)
+![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/self-checker.png)
 
 ## Features
 - **COVID-19 Information**: Includes general information about the virus, how it spreads, and the SARS-CoV-2 virus responsible for the outbreak.
@@ -24,7 +28,7 @@ Repository Link: [COVID-19 Detection and Prevention](https://github.com/Juwel212
 - **Emergency Contacts**: Provides contact details for emergency services and COVID-19-related hotlines.
 
 ### Chatbot Interaction Example
-![Chatbot Example](path_to_your_image/chatbot_example.png)
+![Chatbot Example](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/cha-interaction-1.png)
 
 ## Objectives
 - **Promote Accurate Information**: Provide verified, reliable data about COVID-19 to users.
@@ -41,7 +45,7 @@ Repository Link: [COVID-19 Detection and Prevention](https://github.com/Juwel212
 - **Emergency Support**: Provides contact details for relevant emergency units and hotlines.
 
 ### Example of Risk Categorization
-![Risk Zones](path_to_your_image/risk_zones_example.png)
+![Risk Zones](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/risk-zones.png)
 
 ## Future Enhancements
 - Add more detailed data regarding the virus and the epidemic.
@@ -59,7 +63,9 @@ Repository Link: [COVID-19 Detection and Prevention](https://github.com/Juwel212
 The application uses a **chatbot** to interact with users and assess symptoms. Each symptom is assigned a weight, and based on the cumulative score, the user is placed in one of four risk categories (Green, Yellow, Orange, or Red). Based on this, the application provides customized instructions to guide the user on what to do next.
 
 ### Symptom Detection Flow
-![Symptom Detection Flow](path_to_your_image/symptom_detection_flow.png)
+![Symptom Detection Flow](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/detection-flow-1.png)
+![Symptom Detection Flow](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/detection-flow-2.png)
+![Symptom Detection Flow](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/detection-flow-3.png)
 
 By following the chatbot's prompts, users can self-assess their symptoms and receive personalized advice on their risk of COVID-19 infection.
 
