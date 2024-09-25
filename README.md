@@ -10,11 +10,10 @@ Through a chatbot, users can describe their symptoms, and the program categorize
 Repository Link: [COVID-19 Detection and Prevention](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention)
 
 ### Screenshot of the Application
-![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/initial-view.png)
+![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/a.png)
 ![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/about.png)
 ![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/symptoms.png)
-![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/prevent.png)
-![App Screenshot](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/self-checker.png)
+
 
 ## Features
 - **COVID-19 Information**: Includes general information about the virus, how it spreads, and the SARS-CoV-2 virus responsible for the outbreak.
