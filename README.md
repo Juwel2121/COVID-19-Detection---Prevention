@@ -1,6 +1,6 @@
 # COVID-19 Detection and Prevention (C++ Console Application)
 
-![Project Banner](path_to_your_image/banner.png)
+![Project Banner]([path_to_your_image/banner.png](https://github.com/Juwel2121/COVID-19-Detection-and-Prevention/blob/main/Images/banner.png))
 
 ## Project Overview
 The **COVID-19 Detection and Prevention** project is a C++ console application aimed at providing accurate guidance and information to the public during the COVID-19 epidemic. With so much misinformation circulating, this tool helps users easily access reliable data about COVID-19 and assess their own risk based on symptoms they report.
